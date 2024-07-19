@@ -24,3 +24,18 @@ Design: Figma
 Vision
 
 I am always on the lookout for new challenges and opportunities to grow. My goal is to create impactful and innovative solutions that make a difference.
+
+!(screenshot/pic1.png)
+!(screenshot/pic2.png)
+!(screenshot/pic3.png)
+!(screenshot/pic4.png)
+!(screenshot/pic4.png)
+!(screenshot/pic5.png)
+!(screenshot/pic6.png)
+!(screenshot/pic7.png)
+!(screenshot/pic8.png)
+!(screenshot/pic9.png)
+!(screenshot/pic10.png)
+!(screenshot/pic11.png)
+!(screenshot/pic12.png)
+!(screenshot/pic13.png)
